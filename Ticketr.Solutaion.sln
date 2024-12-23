@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ticketr", "Ticketr\Ticketr.csproj", "{DDFC53C7-B1B1-42D8-9E36-4795B8C3B2C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ticketr.Core", "Ticketr.Core\Ticketr.Core.csproj", "{DBA1B644-7A08-4425-A887-A6416C69DFBD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ticketr.Repository", "Ticketr.Repository\Ticketr.Repository.csproj", "{49858A83-EF25-49B6-86E9-42AB55492B70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketr.Services", "Ticketr.Services\Ticketr.Services.csproj", "{8B2B6532-F739-4949-97DC-393F99E2E3CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDFC53C7-B1B1-42D8-9E36-4795B8C3B2C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDFC53C7-B1B1-42D8-9E36-4795B8C3B2C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDFC53C7-B1B1-42D8-9E36-4795B8C3B2C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDFC53C7-B1B1-42D8-9E36-4795B8C3B2C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBA1B644-7A08-4425-A887-A6416C69DFBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA1B644-7A08-4425-A887-A6416C69DFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA1B644-7A08-4425-A887-A6416C69DFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA1B644-7A08-4425-A887-A6416C69DFBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49858A83-EF25-49B6-86E9-42AB55492B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49858A83-EF25-49B6-86E9-42AB55492B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49858A83-EF25-49B6-86E9-42AB55492B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49858A83-EF25-49B6-86E9-42AB55492B70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B2B6532-F739-4949-97DC-393F99E2E3CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B2B6532-F739-4949-97DC-393F99E2E3CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B2B6532-F739-4949-97DC-393F99E2E3CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B2B6532-F739-4949-97DC-393F99E2E3CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4993F7E-D84D-44E1-8822-EBE8B2385CB3}
+	EndGlobalSection
+EndGlobal
